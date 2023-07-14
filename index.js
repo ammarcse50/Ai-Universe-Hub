@@ -47,9 +47,9 @@ const displayUsers = (users) => {
            
            </div>
           
-            <div class="card-footer ">
+            <div class="card-footer">
             
-            <h5 class="card-title">${user.name}</h5>
+            <h5 class="card-title fw-5">${user.name}</h5>
             <small id="demo">time</small>
           </div>
          
